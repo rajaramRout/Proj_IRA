@@ -12,10 +12,5 @@ class Some
     {
       return "Abhilipsa";
     }
-    public String getMale()
-    {
-      return "Rajaram";
-    }
   }
-
 
