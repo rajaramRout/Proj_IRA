@@ -2,6 +2,7 @@ class Some
   {
     {
       Sting str="static block";
+      System.out.println("instance method execute");
     }
     static
     {
@@ -17,5 +18,6 @@ class Some
       return "Rajaram";
     }
   }
+
 
 
