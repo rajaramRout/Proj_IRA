@@ -1,6 +1,8 @@
 class Some
   {
+    some()
     {
+<<<<<<< HEAD
       Sting str="static block";
       System.out.println("instance method execute");
     }
@@ -14,3 +16,12 @@ class Some
       return "Abhilipsa";
     }
   }
+=======
+      System.out.println("some constructor execute");
+    }
+  }
+
+
+
+
+>>>>>>> 5fa7e24ff61e620ecde357761443c1209fdf7c0c
